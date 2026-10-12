@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/genprayer/genprayer/main/profile-3d-contrib/profile-gitblock.svg" width="800" alt="3D GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/genprayer/genprayer/main/profile-3d-contrib/profile-night-rainbow.svg" width="800" alt="3D GitHub Stats" />
 </div>
 
 <h3 align="center">👾 Full-Stack Developer | Architect of Gaming Communities 👾</h3>
