@@ -103,7 +103,7 @@ Most of my current work is hidden in the shadows (**private repositories**), foc
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=genprayer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td valign="top">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genprayer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css&custom_title=Tech+Found+in+My+Repos" alt="Tech Found in My Repos" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genprayer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css&custom_title=Tech+Found+in+My+Repos" alt="Tech Found in My Repos" />
       </td>
     </tr>
   </table>
