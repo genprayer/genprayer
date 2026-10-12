@@ -95,9 +95,16 @@ Most of my current work is hidden in the shadows (**private repositories**), foc
 ## 🏆 Achievements (GitHub Stats)
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=genprayer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=genprayer&theme=tokyonight&hide_border=true&mode=weekly" width="700" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genprayer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=genprayer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=genprayer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genprayer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css&custom_title=Tech+Found+in+My+Repos" alt="Tech Found in My Repos" />
+      </td>
+    </tr>
+  </table>
 </div>
