@@ -30,8 +30,8 @@
 
 Most of my current work is hidden in the shadows (**private repositories**), focusing on the **Citadel Ecosystem**:
 
-- 🌐 [**Citadel Web Platform**](https://joinctl.com): A reactive frontend built with **Vue 3** and **Tailwind CSS**. It features a unique hub-based architecture, dynamic theming via **Pinia**, and custom interactive directives.
-- 🎛️ [**Citadel Panel**](https://citadel-panel.ru): A full-fledged management panel for controlling game servers and community services.
+- 🌐 [**Citadel Web Platform**](https://jointhectl.com): A reactive frontend built with **Vue 3** and **Tailwind CSS**. It features a unique hub-based architecture, dynamic theming via **Pinia**, and custom interactive directives.
+- 🎛️ [**Citadel Panel**](https://citadel-panel.online): A full-fledged management panel for controlling game servers and community services.
 - 🤖 **Citadel Bots**: Intelligent community management and automation bots to keep Discord and game servers deeply connected.
 - ⚙️ **CTLSquadJS**: Advanced background scripting, automation, and API integrations for game servers.
 
