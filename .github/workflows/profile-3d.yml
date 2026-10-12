@@ -15,12 +15,34 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Remove donut chart from SVGs
+        run: |
+          python3 << 'PYEOF'
+          import re, glob
+
+          # Удаляем блок с донатом и легендой из всех SVG
+          for path in glob.glob("profile-3d-contrib/*.svg"):
+              with open(path, "r", encoding="utf-8") as f:
+                  content = f.read()
+
+              # Удаляем <g> с донатом и легендой (обёрнуты в общий <g transform="translate(40, 520)">)
+              content = re.sub(
+                  r'<g transform="translate\(40,\s*520\)"[^>]*>.*?</g>\s*(?=<g>)',
+                  '',
+                  content,
+                  flags=re.DOTALL
+              )
+
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(content)
+              print(f"Cleaned: {path}")
+          PYEOF
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "Auto-generated 3D profile contrib graph"
+          git commit -m "Auto-generated 3D profile contrib graph (no donut)"
           git push
 
   cleanup:
