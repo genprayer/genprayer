@@ -18,7 +18,7 @@
 
 ## 🎮 Player Stats & Info
 
-- 🔭 I’m currently developing [**Citadel**](https://discord.gg/projectcitadel) — a comprehensive and reactive ecosystem for a gaming community.
+- 🔭 I'm currently developing [**Citadel**](https://discord.gg/projectcitadel) — a comprehensive and reactive ecosystem for a gaming community.
 - 💡 I specialize in building **responsive UI-kits**, robust **game server panels**, and interactive **bots**.
 - 🚀 Exploring modern frontend architectures (like "hubs" systems), state management, and custom CSS animations.
 - 🤝 Always open to collaborating on innovative web projects and gaming tools.
@@ -96,7 +96,8 @@ Most of my current work is hidden in the shadows (**private repositories**), foc
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=genprayer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=1" alt="GitHub Stats" />
-  <br/>
-  <br/>
+  <br/><br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genprayer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=genprayer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
